@@ -127,7 +127,7 @@ const Navbar = () => {
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
-                <FaGithub size={24} />
+                <FaBehance size={24} />
               </a>
               <a
                 href=""
