@@ -26,7 +26,7 @@ const About = () => {
             <ReactTypingEffect
               text={[
                 '3d Artist',
-                'Animator',
+                '2d/3d Animator',
                 'Graphics Designer',
                 '3d Modeler',
                 'Cgi/Vfx Designer',
