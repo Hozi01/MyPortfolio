@@ -129,7 +129,7 @@ export const SkillsInfo = [
       img: newtonschoolLogo1,
       role: "Streaming Overlays Designer",
       company: "Fiverr",
-      date: "Jan 2021 - Present",
+      date: "Jan 2019 - Present",
       desc: "On Fiverr, I bring streamers' brands to life with captivating graphics and animations that elevate their online presence. From dynamic overlays to engaging alerts and transitions, I craft custom visuals that enhance the streaming experience and resonate with audiences. With attention to detail and a passion for creative storytelling, I help streamers stand out in a crowded space and build a loyal community.",
       skills: [
         "AfterEffects",
