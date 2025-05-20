@@ -130,7 +130,7 @@ const Navbar = () => {
                 <FaBehance size={24} />
               </a>
               <a
-                href=""
+                href="https://www.linkedin.com/in/mohammad-hozefa-saleem-62877021b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
