@@ -46,15 +46,15 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 import vpsLogo1 from './assets/education_logo/vps_logo1.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
+import githubdetLogo from './assets/work_logo/github_det.gif';
+import csprepLogo from './assets/work_logo/cs_prep.gif';
+import movierecLogo from './assets/work_logo/movie_rec.gif';
+import taskremLogo from './assets/work_logo/task_rem.gif';
+import npmLogo from './assets/work_logo/npm2.gif';
+import webverLogo from './assets/work_logo/web_dig.gif';
+import cmLogo from './assets/work_logo/cm.gif';
 import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import removebgLogo from './assets/work_logo/remove_bg.gif';
 
 
 export const SkillsInfo = [
@@ -129,7 +129,7 @@ export const SkillsInfo = [
       img: newtonschoolLogo1,
       role: "Streaming Overlays Designer",
       company: "Fiverr",
-      date: "Jan 2019 - Present",
+      date: "Jan 2021 - Present",
       desc: "On Fiverr, I bring streamers' brands to life with captivating graphics and animations that elevate their online presence. From dynamic overlays to engaging alerts and transitions, I craft custom visuals that enhance the streaming experience and resonate with audiences. With attention to detail and a passion for creative storytelling, I help streamers stand out in a crowded space and build a loyal community.",
       skills: [
         "AfterEffects",
@@ -182,13 +182,13 @@ export const SkillsInfo = [
   export const projects = [
     {
       id: 0,
-      title: "AGON Monitor 3d Ad",
+      title: "AGON Monitor 3D Animation",
       description:
         "For the 3D Agon monitor ad, I leveraged Blender's capabilities to create a stunning visual showcase. I designed and animated a captivating scene highlighting the monitor's sleek design, vibrant display, and cutting-edge features. With precise modeling, lighting, and rendering, I brought the product to life, emphasizing its key selling points and creating an eye-catching advertisement that grabs attention.",
       image: githubdetLogo,
       tags: ["Blender", "AfterEffects", "Substance Painter", "Photoshop"],
       github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://www.behance.net/gallery/226261851/3d-Ad-For-Agon-Monitor",
+      webapp: "https://vimeo.com/1101062960?share=copy#t=0",
     },
     {
       id: 1,
@@ -198,18 +198,18 @@ export const SkillsInfo = [
       image: csprepLogo,
       tags: ["Blender", "AfterEffects", "Substance Painter", "Photoshop"],
       github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://www.behance.net/gallery/226261765/Skinvault-Animation-NLE",
+      webapp: "https://vimeo.com/1101063976?share=copy#t=1.984",
     },
     {
       id: 2,
-      title: "Interior Architect Design",
+      title: "3D CAN Animation",
       description:
-        "For Gottagogaminghub school's 3D interior design project, I crafted unique and futuristic spaces that blend functionality with creativity. From sleek classrooms to immersive gaming zones, I designed environments that inspire students and foster collaboration. With attention to detail and a passion for innovative design, I brought the school's vision to life, creating spaces that are both visually stunning and tailored to its gaming-focused curriculum."
+        "I create captivating 3D animations using Blender, crafting detailed models, dynamic movements, and fluid simulations to bring concepts to life. With expertise in Blender's powerful tools, I deliver high-quality visuals that convey compelling narratives and evoke emotions, tailored to fit specific brand identities and storytelling needs."
 ,
       image: movierecLogo,
-      tags: ["Blender","Substance Painter"],
+      tags: ["Blender"],
       github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://www.behance.net/gallery/226251635/3d-Interior-Design-for-GGG-Hub",
+      webapp: "https://vimeo.com/1101061563?share=copy#t=5.643",
     },
     {
       id: 3,
@@ -219,7 +219,7 @@ export const SkillsInfo = [
       image: npmLogo,
       tags: ["AfterEffects", "Adobe Illustrator"],
       github: "https://github.com/codingmastr/cmtk-email-validator",
-      webapp: "https://www.behance.net/gallery/197237625/Logo-Animation-in-After-Effects",
+      webapp: "https://vimeo.com/1101065260?share=copy#t=0",
     },
     {
       id: 4,
@@ -240,7 +240,7 @@ export const SkillsInfo = [
       image: webverLogo,
       tags: ["Blender","Mixamo"],
       github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://www.behance.net/gallery/193186279/Fortnite-Overlay-Screen-In-Blender",
+      webapp: "https://vimeo.com/1101066794?share=copy#t=0",
     },
     {
       id: 6,
@@ -251,7 +251,7 @@ export const SkillsInfo = [
       image: cmLogo,
       tags: ["Blender","Sketchfab"],
       github: "https://codingmasterweb.in/",
-      webapp: "https://www.behance.net/gallery/226260203/BMW-Drifting-Whale-Project",
+      webapp: "https://vimeo.com/1101067775?share=copy#t=0",
     },
     {
       id: 7,
@@ -274,6 +274,6 @@ export const SkillsInfo = [
       image: removebgLogo,
       tags: [ "AfterEffects"],
       github: "https://github.com/codingmastr/Image-Background-Remover",
-      webapp: "https://www.behance.net/gallery/226261619/Fivem-Loading-Screen-on-Fiverr",
+      webapp: "https://vimeo.com/1101068201?share=copy#t=0",
     },
   ];  
