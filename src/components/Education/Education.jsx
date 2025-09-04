@@ -9,10 +9,10 @@ const Education = () => {
     >
       {/* Section Title */}
       <div className="text-center mb-16">
-        <h2 className="text-4xl font-bold text-white">REVIEWS</h2>
+        <h2 className="text-4xl font-bold text-white">TEAM</h2>
         <div className="w-32 h-1 bg-purple-500 mx-auto mt-4"></div>
         <p className="text-gray-400 mt-4 text-lg font-semibold">
-          Check out what my clients have to say about my work! There are bunch of 5 star reviews although i am sharing here some favourable reviews:
+          At NLE Design, our team specializes in 3D and 2D animation, motion graphics, and CGI production. We blend creativity with technical precision to deliver high-quality visuals for brands, games, and digital platforms. With expertise in modeling, texturing, animation, and visual effects, we craft engaging stories that captivate audiences. Our passion lies in pushing design boundaries to create innovative and impactful visual experiences.
  
         </p>
       </div>

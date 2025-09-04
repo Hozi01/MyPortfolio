@@ -1,4 +1,5 @@
 // Skills Section Logo's
+
 import htmlLogo from './assets/tech_logo/html.png';
 import cssLogo from './assets/tech_logo/css.png';
 import sassLogo from './assets/tech_logo/sass.png';
@@ -34,6 +35,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
+
 import webverseLogo from './assets/company_logo/webverse_logo.png';
 import agcLogo from './assets/company_logo/agc_logo.png';
 import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
@@ -46,15 +48,16 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 import vpsLogo1 from './assets/education_logo/vps_logo1.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
-import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
-import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
+import githubdetLogo from './assets/work_logo/github_det.gif';
+import csprepLogo from './assets/work_logo/cs_prep.gif';
+import movierecLogo from './assets/work_logo/movie_rec.gif';
+import taskremLogo from './assets/work_logo/task_rem.gif';
+import npmLogo from './assets/work_logo/npm2.gif';
+import webverLogo from './assets/work_logo/web_dig.gif';
+import cmLogo from './assets/work_logo/cm.gif';
 import imagesearchLogo from './assets/work_logo/image_search.png';
-import removebgLogo from './assets/work_logo/remove_bg.png';
+import removebgLogo from './assets/work_logo/remove_bg.gif';
+
 
 
 export const SkillsInfo = [
@@ -78,29 +81,26 @@ export const SkillsInfo = [
     {
       id: 0,
       img: webverseLogo,
-      role: "3d Modeler and Animator",
-      company: "NLE",
-      date: "MAR 2025 - Present",
-      desc: "With expertise spanning multiple creative domains, I've delivered impactful projects across 3D art, website creation, animation, and video editing. At NLE, I leveraged my skills to craft engaging 3D visuals, designed responsive websites, brought stories to life through animation, and edited compelling videos that captivate audiences. My versatility and attention to detail enable me to seamlessly blend technical expertise with artistic vision, driving projects forward with creativity and precision.",
+      role: "3d Monitor Ad",
+      company: "AOC",
+      date: "SEP 2024",
+      desc: " Together with Agon AOC Monitor, we designed and animated a captivating 3D ad that brought their monitor to life. At NLE Design Company, we worked closely to deliver a high-quality visual experience that exceeded expectations.",
       skills: [
         "BLENDER",
         "AfterEffects",
         "Photoshop",
         "Substance Painter",
         "Premier Pro",
-        "Illustrator",
-        "Wordpress",
-        "Elementor",
       
       ],
     },
     {
       id: 1,
       img: agcLogo,
-      role: "Motion and 3d Designer",
+      role: "Animations for App & Streams",
       company: "Whale.io",
-      date: "Feb 2024 - 2025",
-      desc: "WheelofWhales, I brought the underwater world to life with captivating 3D animations! From playful whale characters to dynamic game elements, I crafted engaging visuals that enhance the gaming experience. With attention to detail and creative flair, I designed animations that respond to user interactions, making the game both fun and immersive.",
+      date: "OCT 2024",
+      desc: "At NLE Design, we had the opportunity to collaborate with Whale.io on their exciting project Wheel of Whales, a tap game where we brought the visuals to life with engaging and polished animations. We crafted smooth, eye-catching motion designs that elevated the gameplay experience, making it more dynamic and immersive for players. Along with game animations, we also created high-quality animated overlays tailored for Whale.io’s live streamings, ensuring a professional, visually appealing, and interactive viewing experience for their audience.",
       skills: [
         "AfterEffects",
         "Blender",
@@ -111,34 +111,32 @@ export const SkillsInfo = [
     {
       id: 2,
       img: newtonschoolLogo,
-      role: "Interior Designer and Teacher",
-      company: "GottaGoGamingHub",
-      date: "Sep 2022 - 2024",
-      desc: "At Gottagogaminghub, I wear multiple hats, leveraging my expertise in 3D architecture, animation, and design to drive creative projects forward. I craft immersive 3D environments and animations that transport viewers to new worlds. With a keen eye for branding, I design impactful logos that capture essence and identity. I also build responsive WordPress websites that engage audiences and showcase content effectively. As an educator, I share knowledge and skills with students, guiding them through the creative process and empowering them to bring their ideas to life.",
+      role: "Animated Banners & Graphics ",
+      company: "SKINSAUNA.GG",
+      date: "MAR 2025",
+      desc: "At NLE Design, we partnered with Skinsauna.gg to create vibrant and dynamic banner animations that captured the essence of their brand. Our work enhanced their streaming presence with visually striking animated banners and boosted their brand promotions through engaging motion design. By combining creativity with precision, we delivered content that helped Skinsauna.gg connect with their audience in a more impactful and professional way.",
       skills: [
-        "Blender",
+
         "AfterEffects",
-        "Wordpress",
-        "Elementor",
         "Photoshop",
         "Illustrator",
       ],
     },
-     {
-      id: 3,
-      img: newtonschoolLogo1,
-      role: "Streaming Overlays Designer",
-      company: "Fiverr",
-      date: "Jan 2021 - Present",
-      desc: "On Fiverr, I bring streamers' brands to life with captivating graphics and animations that elevate their online presence. From dynamic overlays to engaging alerts and transitions, I craft custom visuals that enhance the streaming experience and resonate with audiences. With attention to detail and a passion for creative storytelling, I help streamers stand out in a crowded space and build a loyal community.",
-      skills: [
-        "AfterEffects",
-        "Photoshop",
-        "Illustrator",
-        "Media Encoder",
-        "Adobe Audition",
-      ],
-    },
+     //{
+    //  id: 3,
+      //img: newtonschoolLogo1,
+      //role: "Streaming Overlays Designer",
+      //company: "Fiverr",
+      //date: "Jan 2021 - Present",
+      //desc: "On Fiverr, I bring streamers' brands to life with captivating graphics and animations that elevate their online presence. From dynamic overlays to engaging alerts and transitions, I craft custom visuals that enhance the streaming experience and resonate with audiences. With attention to detail and a passion for creative storytelling, I help streamers stand out in a crowded space and build a loyal community.",
+      //skills: [
+     //   "AfterEffects",
+      //  "Photoshop",
+       // "Illustrator",
+        //"Media Encoder",
+        //"Adobe Audition",
+      //],
+    //},
   ];
   
   export const education = [
@@ -146,86 +144,69 @@ export const SkillsInfo = [
       id: 0,
       img: glaLogo,
       school: "",
-      date: "1 Year Ago",
-      desc: "I am absolutely thrilled with the exceptional design work delivered by hozefasaleem01! This talented freelancer has exceeded my expectations in every way. His creativity, attention to detail, and ability to understand my vision have resulted in stunning designs that perfectly capture the essence of my brand. Hozefasaleem01's expertise in design is evident in his meticulous approach, innovative ideas, and prompt communication. He is a master of his craft, and his passion for design shines through in every aspect of his work. What impresses me most is his ability to listen and understand my requirements, asking insightful questions to ensure he gets it just right. His designs are not only visually striking but also functional and user-friendly. If you're looking for a designer who will go above and beyond to deliver outstanding results, look no further than hozefasaleem01. I can't recommend him enough!",
-      degree: "CEO Of Northern Legacy Esports - (NLE)",
+      date: "",
+      desc: "Jimi is the CEO and Lead Graphics Designer at NLE Design, bringing both creative vision and leadership to the team. With expertise in branding, 2D/3D design, and motion graphics, he combines artistic talent with strategic thinking to guide projects from concept to completion. His role goes beyond design, as he focuses on building client relationships, managing creative direction, and driving innovation within the company. Jimi’s passion for design and dedication to quality have been central to establishing NLE as a reliable and forward-thinking creative studio.",
+      degree: "Jimi-CEO Of NLE Design & a Graphics Designer",
     },
     {
       id: 1,
       img: bsaLogo,
       school: "",
-      date: "3 Months Ago",
+      date: "",
       grade: "73.2%",
-      desc: "I knew M.hozefa Saleem was good, but wow was I IMPRESSED with his work! His professionalism, visual appeal, and attention to detail are top-notch. Extremely polite, very responsive, and proactive—M.hozefa delivered above and beyond expectations with amazing understanding and timely delivery. Definitely worth every single penny! Highly recommend getting any animation work for streamers done by him! 👍",
-      degree: "Streamer At Twitch - (itzcruzybaby) ",
+      desc: "Hozefa is a talented 3D/2D Animator and Visual Creator at NLE Design, specializing in crafting dynamic visuals that bring ideas to life. With strong expertise in character animation, motion graphics, and cinematic visuals, he combines technical precision with creativity to deliver impactful content. His work spans from game assets and promotional ads to branded animations, always focusing on storytelling and visual appeal. Hozefa’s ability to merge artistic style with cutting-edge tools makes him an essential part of the NLE team, driving projects with innovation and high-quality execution.",
+      degree: "Hozefa Saleem 3d/ Animator(create visuals)",
     },
-    {
-      id: 2,
-      img: vpsLogo,
-      school: "",
-      date: "Apr 2025",
-      grade: "78%",
-      desc: "I had an amazing experience with this purchase and the final product. I even sent him an incorrect spelling logo and he went back in and edited everything out for me to fix my mistake. It came out AMAZING, and I'm so happy with the final product. Great work, exceptional creativity and customer service. I will definitely be using his services in the future for any of my animation needs!",
-      degree: "Realdealzach - CEO Of Real Deal Futures",
-    },
-    {
-      id: 3,
-      img: vpsLogo1,
-      school: "",
-      date: "March 2025",
-      grade: "87.5%",
-      desc: "Sehr gute Arbeit und geht auf wünsche ein ! Preis Leistung ist Stimmig und Lieferung ist innerhalb des angegebenen Zeitraum geliefert 👍",
-      degree: "toxy.poehlerz - Youtuber(Die Pöhlerz)",
-    },
+    
   ];
   
   export const projects = [
     {
       id: 0,
-      title: "AGON Monitor 3d Ad",
+      title: "AGON Monitor 3D Animation",
       description:
-        "For the 3D Agon monitor ad, I leveraged Blender's capabilities to create a stunning visual showcase. I designed and animated a captivating scene highlighting the monitor's sleek design, vibrant display, and cutting-edge features. With precise modeling, lighting, and rendering, I brought the product to life, emphasizing its key selling points and creating an eye-catching advertisement that grabs attention.",
+        "We at NLE Design had the opportunity to create a 3D animated advertisement for AGON AOC Monitors, bringing their cutting-edge gaming technology to life. Our team designed and animated high-quality 3D visuals that highlighted the monitor’s sleek design, advanced features, and immersive performance. The ad focused on showcasing fluid animations, realistic lighting, and dynamic camera movements to reflect the brand’s premium quality and strong presence in the gaming market. By blending creativity with technical precision, we delivered a visually engaging and modern promotional piece that effectively captured AGON AOC’s innovative spirit and connected with their gaming audience. 👉To see the animation, click [View Project]",
       image: githubdetLogo,
       tags: ["Blender", "AfterEffects", "Substance Painter", "Photoshop"],
       github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-      webapp: "https://www.behance.net/gallery/226261851/3d-Ad-For-Agon-Monitor",
+      webapp: "https://vimeo.com/1101062960?share=copy#t=0",
     },
     {
       id: 1,
-      title: "CS Prep",
+      title: "3d Scary Scene",
       description:
-        "For the SkinVault project at NLE, I created captivating 3D vault animations that showcase unique skins in a dynamic and engaging way. Using my expertise in 3D modeling and animation, I brought each vault to life with intricate details, smooth transitions, and visually appealing effects.",
+        "At NLE Design, we produced a 3D scary screen animation tailored for a streamer, designed to amplify the thrill and excitement of their live broadcasts. The goal was to create a dark, immersive, and cinematic atmosphere that would engage viewers and align with the streamer’s horror-themed content. Our team developed the scene using detailed 3D modeling, texturing, and atmospheric effects such as flickering lights, eerie shadows, and subtle camera movements to enhance the suspense. We carefully balanced horror aesthetics with high-quality rendering, ensuring the screen was both visually intense and technically polished for streaming use. The final animation delivered a haunting and memorable visual experience that elevated the streamer’s branding, helping them stand out with a professional and uniquely tailored design. This project showcased our ability to blend creativity with audience engagement, producing 3D visuals that enhance entertainment and viewer immersion. 👉To see the animation, click [View Project]",
       image: csprepLogo,
       tags: ["Blender", "AfterEffects", "Substance Painter", "Photoshop"],
       github: "https://github.com/codingmastr/CSPrep",
-      webapp: "https://www.behance.net/gallery/226261765/Skinvault-Animation-NLE",
+      webapp: "https://vimeo.com/1115851997?share=copy",
     },
     {
       id: 2,
-      title: "Interior Architect Design",
+      title: "3D CAN Animation",
       description:
-        "For Gottagogaminghub school's 3D interior design project, I crafted unique and futuristic spaces that blend functionality with creativity. From sleek classrooms to immersive gaming zones, I designed environments that inspire students and foster collaboration. With attention to detail and a passion for innovative design, I brought the school's vision to life, creating spaces that are both visually stunning and tailored to its gaming-focused curriculum."
+        "At NLE Design, we produced a 3D animated can ad for Rock Paper Scissors. Our team brought the product to life with realistic textures, smooth motion, and cinematic lighting, creating a fresh and dynamic showcase of the brand. The animation highlights the can’s design in an eye-catching way, delivering a bold and modern promotional piece. 👉[View Project]"
 ,
       image: movierecLogo,
-      tags: ["Blender","Substance Painter"],
+      tags: ["Blender"],
       github: "https://github.com/codingmastr/Movie-Recommendation-App",
-      webapp: "https://www.behance.net/gallery/226251635/3d-Interior-Design-for-GGG-Hub",
+      webapp: "https://vimeo.com/1101061563?share=copy#t=5.643",
     },
     {
       id: 3,
       title: "Aldira Logo Animation",
       description:
-        "On Fiverr, I collaborated with ALDIRA to create stunning character logo animations that elevated their brand presence. With expertise in 3D animation and motion graphics, I brought their logo to life with dynamic movements, vibrant colors, and creative storytelling. The result was a captivating visual identity that showcases Aldira's unique personality and style, perfect for engaging audiences and building brand recognition.",
+        "We at NLE Design had the opportunity to design and animate the official 2D logo animation for Aldira Group. The goal was to transform their static brand logo into a memorable motion identity that could be used across digital platforms, presentations, and promotional materials. Our creative team focused on capturing the essence of Aldira Group’s brand values—professionalism, innovation, and trust—by combining smooth transitions, fluid motion, and carefully timed effects. Each movement was designed to enhance the logo’s presence, making it not only visually appealing but also meaningful in how it represents the company’s strong corporate identity. The final animation delivered a modern, polished, and versatile logo reveal that reinforces Aldira Group’s branding, helping them stand out and leave a lasting impression with their audience. 👉To see the animation, click [View Project]",
       image: npmLogo,
       tags: ["AfterEffects", "Adobe Illustrator"],
       github: "https://github.com/codingmastr/cmtk-email-validator",
-      webapp: "https://www.behance.net/gallery/197237625/Logo-Animation-in-After-Effects",
+      webapp: "https://vimeo.com/1101065260?share=copy#t=0",
     },
     {
       id: 4,
       title: "3d Animated Reindeer Nfts",
       description:
-        "For NLE, I crafted a unique 3D reindeer character NFT animation that combines whimsy and wonder. With meticulous attention to detail, I designed and animated the reindeer with fluid movements, expressive personality, and captivating visuals. The result was a charming and collectible NFT that showcases the character's spirit and charm, perfect for enthusiasts and collectors alike."
+        "At NLE Design, we created an NFT animated 3D reindeer as part of our own internal creative exploration in the digital art and Web3 space. This project allowed us to push our skills in character design, 3D modeling, and animation, while experimenting with how unique assets can live in the NFT ecosystem. We designed the reindeer with stylized proportions, detailed textures, and expressive features, giving it both personality and collectability. The animation was crafted to bring the character to life through playful movements, dynamic camera work, and polished rendering, making it stand out as a high-quality NFT-ready artwork.Unlike client-based projects, this piece was developed for ourselves, giving us full creative freedom to explore new design styles and storytelling approaches. The result is a visually engaging, animated 3D NFT character that demonstrates our ability to combine artistry with innovation in the evolving world of digital collectibles. 👉To see our NFTs, click [View Project]"
 ,
       image: taskremLogo,
       tags: ["Blender"],
@@ -236,28 +217,28 @@ export const SkillsInfo = [
       id: 5,
       title: "Fortnite Theme Overlay",
       description:
-        "For NLE, I created a sleek and dynamic 3D animated Fortnite overlay that enhances the gaming experience. With expertise in 3D modeling and animation, I designed an immersive overlay that seamlessly integrates with gameplay, providing a visually stunning and engaging experience for viewers. The overlay's modern design and smooth animations elevate NLE's streaming presence, setting them apart in the gaming community.",
+        "At NLE Design, we created a custom Fortnite screen for our own Fortnite server, designed to deliver a unique and engaging visual identity for players. The project focused on building a dynamic 3D environment inspired by Fortnite’s vibrant style while adding our own creative touch to make it stand out. Our team worked on modeling, texturing, and animation to produce a polished screen that reflected the energy and excitement of the game. Elements such as smooth transitions, bold visuals, and cinematic camera work were carefully crafted to match the fast-paced, competitive atmosphere Fortnite players love. The final result was a high-quality screen design that not only showcased our technical expertise but also highlighted our passion for gaming and community building. This project demonstrated our ability to create immersive and branded visuals that elevate the overall player experience. 👉To see the screen, click [View Project]",
       image: webverLogo,
       tags: ["Blender","Mixamo"],
       github: "https://github.com/codingmastr/Webverse-Digital",
-      webapp: "https://www.behance.net/gallery/193186279/Fortnite-Overlay-Screen-In-Blender",
+      webapp: "https://vimeo.com/1101066794?share=copy#t=0",
     },
     {
       id: 6,
       title: "BMW Drifting Whale Project",
       description:
-        "For the Whale project, I crafted a high-octane 3D BMW drifting animation that showcases precision driving and sleek design. With expertise in 3D modeling and animation, I brought the BMW to life, capturing the thrill of drifting with smooth movements, realistic physics, and stunning visuals. The animation's dynamic camera angles and detailed textures highlight the vehicle's performance and style, making it a compelling visual experience."
+        "At NLE Design, we developed the 3D BMW Drifting Whale Project, a unique creative concept that combined high-end automotive visuals with surreal storytelling. The idea was to showcase a BMW drifting with dynamic motion while integrating a giant whale as the central surreal element, creating a bold and unexpected visual narrative. Our team handled the entire process, from 3D modeling and animation to texturing, lighting, and rendering, ensuring both the BMW and the whale looked realistic and cinematic. Special attention was given to smoke simulations, drifting effects, and fluid motion, making the animation feel energetic and powerful while maintaining artistic depth. The final project delivered a striking fusion of realism and fantasy, highlighting our ability to push creative boundaries in 3D animation. It demonstrated how automotive design and imaginative storytelling can come together to create a truly memorable visual experience. 👉To see the animation, click [View Project]"
 ,
       image: cmLogo,
       tags: ["Blender","Sketchfab"],
       github: "https://codingmasterweb.in/",
-      webapp: "https://www.behance.net/gallery/226260203/BMW-Drifting-Whale-Project",
+      webapp: "https://vimeo.com/1101067775?share=copy#t=0",
     },
     {
       id: 7,
-      title: "Fortnite Battle Bus For NLE",
+      title: "Fortnite Battle Bus",
       description:
-        "For NLE, I created a detailed 3D model of the iconic Fortnite Battle Bus, capturing its sleek design and dynamic presence. With precision modeling and attention to detail, I replicated the bus's intricate textures, vibrant colors, and authentic features, bringing it to life in stunning detail. The 3D model showcases my expertise in modeling and texturing, perfect for animations, renders, or gaming applications."
+        "At NLE Design, we created a custom Fortnite Battle Bus animation for our own NLE Fortnite server start screen, designed to give players a unique and branded entry experience. The project focused on reimagining the iconic Battle Bus with our studio’s creative touch, blending Fortnite’s vibrant style with a personalized design that reflects our identity. Our team worked on 3D modeling, texturing, animation, and cinematic camera sequences to make the Battle Bus feel both authentic and distinctive. Details such as lighting, atmospheric effects, and smooth motion were added to capture the excitement of jumping into the Fortnite world while making the NLE version stand out. The final animation delivered a high-quality, immersive start screen that not only energized the community but also showcased our ability to create customized gaming visuals for branding and entertainment. 👉To see the screen, click [View Project]"
 ,
       image: imagesearchLogo,
       tags: ["Blender"],
@@ -266,14 +247,14 @@ export const SkillsInfo = [
     },
     {
       id: 8,
-      title: "Fivem Loading Screen Fiverr",
+      title: "Fivem Loading Screen NLC",
       description:
         
-"On Fiverr, I created a captivating loading screen animation for FiveM, elevating the user experience with dynamic visuals and smooth transitions. With expertise in animation and design, I crafted a unique and engaging loading screen that immerses users in the game's world, setting the tone for an exciting experience. The animation's custom design and fluid motion showcase my creativity and attention to detail."
+"At NLE Design, we designed and developed a custom FiveM loading screen for NLC Group, crafted to provide players with a smooth, engaging, and branded entry into their server. The goal was to create a screen that not only functioned seamlessly but also reflected the professional identity and gaming culture of NLC Group. Our team combined 3D visuals, animated elements, and stylish UI design to deliver a modern and polished experience. Features such as dynamic motion graphics, fluid transitions, and optimized performance were integrated to ensure the loading process felt immersive rather than static. Every detail was designed to make the first impression memorable and visually striking for players joining the server. The final product was a high-quality, fully customized loading screen that elevated the overall look and feel of the server while reinforcing NLC Group’s branding within the FiveM community. 👉To see the screen, click [View Project]"
 ,
       image: removebgLogo,
       tags: [ "AfterEffects"],
       github: "https://github.com/codingmastr/Image-Background-Remover",
-      webapp: "https://www.behance.net/gallery/226261619/Fivem-Loading-Screen-on-Fiverr",
+      webapp: "https://vimeo.com/1101068201?share=copy#t=0",
     },
   ];  

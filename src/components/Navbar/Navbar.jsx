@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
-import { FaBehance, FaLinkedin } from "react-icons/fa";
+import {FaInstagram, FaTwitch } from "react-icons/fa";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -30,10 +30,9 @@ const Navbar = () => {
 
   const menuItems = [
     { id: "about", label: "About" },
-    { id: "skills", label: "Skills" },
-    { id: "experience", label: "Experience" },
+    { id: "experience", label: "Work Career" },
     { id: "work", label: "Projects" },
-    { id: "education", label: "Reviews" },
+    { id: "education", label: "Team" },
   ];
 
   return (
@@ -46,9 +45,9 @@ const Navbar = () => {
         {/* Logo */}
         <div className="text-lg font-semibold cursor-pointer">
           <span className="text-[#8245ec]">&lt;</span>
-          <span className="text-white">Hozefa</span>
+          <span className="text-white">NLE</span>
           <span className="text-[#8245ec]">/</span>
-          <span className="text-white">Saleem</span>
+          <span className="text-white">Design</span>
           <span className="text-[#8245ec]">&gt;</span>
         </div>
 
@@ -71,20 +70,20 @@ const Navbar = () => {
         {/* Social Icons */}
         <div className="hidden md:flex space-x-4">
           <a
-            href="https://www.behance.net/mohammasaleem2"
+            href="https://www.instagram.com/nl3.design?igsh=ZjBya2w2dnk0YXR2"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
           >
-            <FaBehance size={24} />
+            <FaInstagram size={24} />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammad-hozefa-saleem-62877021b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+            href="https://www.twitch.tv/nlefi"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-300 hover:text-[#8245ec]"
           >
-            <FaLinkedin size={24} />
+            <FaTwitch size={24} />
           </a>
         </div>
 
@@ -122,20 +121,20 @@ const Navbar = () => {
             ))}
             <div className="flex space-x-4">
               <a
-                href="https://www.behance.net/mohammasaleem2"
+                href="https://www.instagram.com/nl3.design?igsh=ZjBya2w2dnk0YXR2"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
-                <FaGithub size={24} />
+                <FaInstagram size={24} />
               </a>
               <a
-                href=""
+                href="https://www.twitch.tv/nlefi"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white"
               >
-                <FaLinkedin size={24} />
+                <FaTwitch size={24} />
               </a>
             </div>
           </ul>
