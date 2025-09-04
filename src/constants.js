@@ -155,7 +155,7 @@ export const SkillsInfo = [
       date: "",
       grade: "73.2%",
       desc: "Hozefa is a talented 3D/2D Animator and Visual Creator at NLE Design, specializing in crafting dynamic visuals that bring ideas to life. With strong expertise in character animation, motion graphics, and cinematic visuals, he combines technical precision with creativity to deliver impactful content. His work spans from game assets and promotional ads to branded animations, always focusing on storytelling and visual appeal. Hozefa’s ability to merge artistic style with cutting-edge tools makes him an essential part of the NLE team, driving projects with innovation and high-quality execution.",
-      degree: "Hozefa Saleem 3d/ Animator(create visuals)",
+      degree: "Hozefa Saleem 3d/2d Animator",
     },
     
   ];
